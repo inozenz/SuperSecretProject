@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string-array name="spinnerItems">
+            <item>Grundkenntnisse</item>
+            <item>konversationssicher</item>
+            <item>fließend</item>
+            <item>verhandlungssicher</item>
+            <item>Muttersprache</item>
+        </string-array>
+        <string-array name="fuehrerscheinklassen">
+            <item>Klasse A</item>
+            <item>Klasse B</item>
+            <item>Klasse C</item>
+        </string-array>
+    </resources>
